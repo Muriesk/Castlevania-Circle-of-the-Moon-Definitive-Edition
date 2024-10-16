@@ -11,3 +11,9 @@ Int stat fixed.
 All modes unlocked at start.
 
 Optional version with auto run enabled.
+
+Castlevania Circle of the Moon.gba
+
+CRC-32: 1cc059a4
+
+SHA-1: d661b01eb94186435723ac03344792c11c20c522
